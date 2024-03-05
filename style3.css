@@ -1,0 +1,42 @@
+header {
+    background-color: black;
+    color: beige;
+    padding: 10px;
+    display: flex;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.border {
+    border: 10px solid gray;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+
+footer h3, h4 {
+    color: azure;
+    text-align: center;
+}
+
+footer p {
+    color: azure;
+    text-align: center;
+    width: 100%;
+}
+
+footer p a {
+   color: azure;
+   text-decoration: none;
+}
